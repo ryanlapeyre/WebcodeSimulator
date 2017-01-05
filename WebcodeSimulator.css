@@ -1,0 +1,42 @@
+iframe 
+{
+height:635px;
+width:1000px;
+resize: none;
+}
+textarea
+{
+resize: none;
+        font-size:12px;
+}
+div
+{
+    margin-top:10px;
+    margin-left:10px;
+}
+
+button 
+{
+width: 100px;
+       height 100px;
+display:inline;
+clear:both;
+}
+
+
+#styleWindow 
+{
+float: left;
+clear: right;
+margin: 10px;
+}
+
+#hypertextWindow 
+{
+float: left;
+clear: left;
+margin: 10px;
+}
+
+
+
